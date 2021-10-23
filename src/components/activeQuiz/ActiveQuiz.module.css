@@ -1,0 +1,11 @@
+.ActiveQuiz {
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.Question {
+    display: flex;
+    justify-content: space-between;
+}
